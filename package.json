@@ -1,13 +1,13 @@
 {
-               "name": "SITHUWA-MD",
+               "name": "Trace-MD",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SITHUWA-MD.",
+               "description": "Multi device whatsapp bot by Trace-MD.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
                "scripts": {
-                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name sithuwa-md",
-                  "stop": "pm2 stop sithuwa-md"
+                  "start": "pm2 start lib/client.js --deep-monitoring --attach --name Trace-MD",
+                  "stop": "pm2 stop Trace-MD"
                },
                "author": "sithumkalhara",
                "dependencies": {
@@ -68,11 +68,11 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/Sithuwa/SITHUWA-MD.git"
+                 "url": ""
                   },
                  "bugs": {
-                 "url": "https://github.com/Sithuwa/SITHUWA-MD/issues"
+                 "url": ""
                   },
-                 "homepage": "https://github.com/Sithuwa/SITHUWA-MD#readme"
+                 "homepage": ""
                   }
  
